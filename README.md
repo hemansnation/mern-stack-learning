@@ -1,6 +1,4 @@
-# mern-stack-learning
-
-# MERN Stack
+# MERN Stack Learning
 
 ## HTML CSS
 
